@@ -11,4 +11,14 @@ Outside of research, I love traveling, learning new languages and cultures, and 
 # EDUCATION
 
 MSc Data Science and Information Technologies | NKUA
+
 BSc Biotechnology | AUA
+
+<p>
+  <a href="https://github.com/eleni-pan" target="_blank" style="text-decoration: none; margin-right: 15px;">
+    <i class="fab fa-github fa-2x"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/elpan-biotech/" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+</p>
